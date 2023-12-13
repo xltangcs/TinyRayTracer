@@ -1,2 +1,0 @@
-# TinyRayTracer
-a tinyraytracer
